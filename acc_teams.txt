@@ -1,0 +1,17 @@
+> print(acc_teams)
+0       Georgia Tech#
+1            Clemson#
+2         Louisville#
+3               Duke#
+4        Wake Forest#
+5           Syracuse#
+6         Notre Dame#
+7         Pittsburgh
+8           Virginia#
+9     North Carolina#
+10          NC State#
+11       Florida St.#
+12     Virginia Tech#
+13    Boston College#
+14        Miami (FL)#
+Name: school_ncaa, dtype: object
